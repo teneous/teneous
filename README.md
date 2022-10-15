@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @teneous work for alipay. in Hangzhou China.
 - 👀 I’m interested in Java middleware,travel,guitar🎸,Japanese
 - 🌱 I’m currently learning react,DDD
-- 
