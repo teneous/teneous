@@ -1,17 +1,23 @@
-## 👋 Hi, guys
+## 👋 Hey, guys
 I’m `syoka`, a full-stack engineer.
   
-Currently, I focus on:
-  - The Practical Applications and Deployment of LLM Engineering (Tech Stack: LLM, RAG, KG, TTS, ASR, etc.)
-  - Data Engineering(2 Years in AliPay)
+**Current Focus**
 
-Reading List
+I interested in LLMs and their applications, including: Agent, RAG, KG, TTS, ASR, etc.
+
+**Experience**
+
+- 8 Years Backend Engineering
+- 1 Year LLM & Frontier Engineering
+- 2 Years Data Platform Development Engineering
+
+**Reading List**
 - 《人工智能-现代方法》
 - 《普林斯顿-微积分读本》
 - 《智人之上》
 
 Contact me at 
-[![email](https://img.shields.io/badge/-syoka9471-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:syoka9471@gmail.com) | 
+[![email](https://img.shields.io/badge/-syoka9471-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:syoka9471@gmail.com) 
 [![WeChat](https://img.shields.io/badge/-Christinaier-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./), 
 you can talk to me in `zh|en|jp` 👀.
 
