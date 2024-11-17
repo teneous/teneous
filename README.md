@@ -10,7 +10,12 @@ Reading List
 - 《普林斯顿-微积分读本》
 - 《智人之上》
 
-Email me at `syoka9471@gmail.com`, you can talk to me in `zh|en|jp` 👀.
+Contact me at 
+[![email](https://img.shields.io/badge/-syoka9471-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:syoka9471@gmail.com) | 
+[![WeChat](https://img.shields.io/badge/-Christinaier-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square)](./), 
+you can talk to me in `zh|en|jp` 👀.
+
+
 
 ## 🔧 Tech Stack
 <p align="left">
