@@ -14,7 +14,6 @@ I interested in LLMs and their applications, including: Agent, RAG, KG, TTS, ASR
 **Reading List**
 - 《人工智能-现代方法》
 - 《普林斯顿-微积分读本》
-- 《智人之上》
 
 Contact me at 
 [![email](https://img.shields.io/badge/-syoka9471-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square)](mailto:syoka9471@gmail.com) 
