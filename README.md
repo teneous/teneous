@@ -8,7 +8,7 @@ I interested in LLMs and their applications, including: Agent, RAG, KG, TTS, ASR
 **Experience**
 
 - 8 Years Backend Engineering
-- 1 Year LLM & Frontier Engineering
+- 2 Year AI & Frontier Engineering
 - 2 Years Data Platform Development Engineering
 
 **Reading List**
